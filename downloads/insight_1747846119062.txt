@@ -1,0 +1,34 @@
+Doctor: Good morning, how can I assist you today?
+
+Patient: Hi doctor, I've been having a persistent headache for the past week. It's usually worse in the mornings and evenings. I've also been feeling quite fatigued and have lost my appetite.
+
+Doctor: I see. Have you noticed any other symptoms? Any fever, nausea, or changes in vision?
+
+Patient: No, just the headache and fatigue. I've also been feeling a bit down lately, maybe because of the constant pain.
+
+Doctor: I understand. It's possible that your symptoms could be due to a number of conditions, such as migraines, tension headaches, or even depression. We'll need to run some tests to be sure. In the meantime, I can prescribe you some pain relief medication. 
+
+Patient: That would be great, doctor. I've been feeling quite worried about this, especially because I've never had headaches like this before.
+
+Doctor: I understand your concerns. Let's start with a blood test and a brain scan to rule out any serious conditions. I'll also prescribe you a mild painkiller, Paracetamol, 500mg to be taken every 6 hours as needed for pain. We'll review your situation after we get the test results.
+
+Patient: Thank you, doctor. I appreciate your help.
+
+Doctor: You're welcome. Please make sure to rest and stay hydrated. We'll be in touch soon.
+
+---
+
+1. 🩹 Patient’s Reported Symptoms
+The patient reported a persistent headache for the past week, which is worse in the mornings and evenings. They also reported fatigue and loss of appetite. The patient has been feeling down, possibly due to the constant pain.
+
+2. 👨‍⚕️ Doctor’s Clinical Observations & Questions
+The doctor suggested that the symptoms could be due to migraines, tension headaches, or depression. The doctor asked about other symptoms such as fever, nausea, or changes in vision.
+
+3. 💊 Medications and Treatments Discussed
+The doctor prescribed a mild painkiller, Paracetamol, 500mg to be taken every 6 hours as needed for pain. The doctor also recommended rest and hydration.
+
+4. 🧠 Diagnoses or Suspected Conditions
+The doctor suspects migraines, tension headaches, or depression, but wants to run tests to confirm.
+
+5. 😟 Patient Concerns and Emotional Tone
+The patient expressed worry about the persistent headaches, especially
